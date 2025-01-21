@@ -9,10 +9,13 @@ Esta aplicación permite a los usuarios registrar libros en una base de datos y 
 
 ## Caracteristicas:
 
-*-Registro de libros con titulo, autor, año de nacimiento, genero.
+-Registro de libros con titulo, autor, año de nacimiento, genero.
+
 -Filtro de libros.
+
 -Registro y eliminacion de registros.
--Exportacion de registros.*
+
+-Exportacion de registros.
 
 ## Licencia:
 
